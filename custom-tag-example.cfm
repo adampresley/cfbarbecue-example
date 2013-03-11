@@ -3,6 +3,6 @@
 --->
 <cfimport taglib="com/adampresley/barbecue" prefix="barbecue" />
 
-<barbecue:barcode root="/com/adampresley/barbecue" type="usps">
+<barbecue:barcode type="usps">
 	This is a test
 </barbecue:barcode>
